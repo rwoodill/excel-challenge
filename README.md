@@ -28,11 +28,11 @@ Category Stats
 
 Subcategory Stats
 
-Create a new sheet with a pivot table that analyzes your initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per sub-category.
+	x Create a new sheet with a pivot table that analyzes your initial sheet to count how many campaigns were 	successful, failed, or canceled, or are currently live per sub-category.
 
-Create a stacked-column pivot chart that can be filtered by country and parent category based on the table that you created.
+	x Create a stacked-column pivot chart that can be filtered by country and parent category based on the 		table that you created.
 
-The dates in the deadline and launched_at columns use Unix timestamps. Fortunately for us, this formulaLinks to an external site. that can be used to convert these timestamps to a normal date.
+	x The dates in the deadline and launched_at columns use Unix timestamps. Fortunately for us, this 			formulaLinks to an external site. that can be used to convert these timestamps to a normal 			date.
 
 Create a new column named Date Created Conversion that will use this formulaLinks to an external site. to convert the data contained in launched_at into Excel's date format.
 
