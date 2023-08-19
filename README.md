@@ -34,23 +34,23 @@ Subcategory Stats
 
 	x The dates in the deadline and launched_at columns use Unix timestamps. Fortunately for us, this 			formulaLinks to an external site. that can be used to convert these timestamps to a normal 			date.
 
-Create a new column named Date Created Conversion that will use this formulaLinks to an external site. to convert the data contained in launched_at into Excel's date format.
+	x Create a new column named Date Created Conversion that will use this formulaLinks to an external site. 	to convert the data contained in launched_at into Excel's date format.
 
-Create a new column named Date Ended Conversion that will use this formulaLinks to an external site. to convert the data contained in deadline into Excel's date format.
+	x Create a new column named Date Ended Conversion that will use this formulaLinks to an external site. to 	convert the data contained in deadline into Excel's date format.
 
 Outcomes Based on Launch Date
 
-Create a new sheet with a pivot table that has a column of outcome, rows of Date Created Conversion, values based on the count of outcome, and filters based on parent category and Years.
+	x Create a new sheet with a pivot table that has a column of outcome, rows of Date Created Conversion, 		values based on the count of outcome, and filters based on parent category and Years.
 
-Now, create a pivot-chart line graph that visualizes this new table.
+	x Now, create a pivot-chart line graph that visualizes this new table.
 
 Create a report in Microsoft Word, and answer the following questions:
 
-Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?
+	Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?
 
-What are some limitations of this dataset?
+	What are some limitations of this dataset?
 
-What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
+	What are some other possible tables and/or graphs that we could create, and what additional value would 	they provide?
 
 Crowfunding Goal Analysis
 Create a new sheet with 8 columns:
