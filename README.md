@@ -45,30 +45,30 @@ Outcomes Based on Launch Date
 
 Create a report in Microsoft Word, and answer the following questions:
 
-	Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?
+	x Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?
 
-	What are some limitations of this dataset?
+	x What are some limitations of this dataset?
 
-	What are some other possible tables and/or graphs that we could create, and what additional value would 	they provide?
+	x What are some other possible tables and/or graphs that we could create, and what additional value 	would they provide?
 
 Crowfunding Goal Analysis
 Create a new sheet with 8 columns:
 
-Goal
+	x Goal
 
-Number Successful
+	x Number Successful
 
-Number Failed
+	x Number Failed
 
-Number Canceled
+	x Number Canceled
 
-Total Projects
+	x Total Projects
 
-Percentage Successful
+	x Percentage Successful
 
-Percentage Failed
+	x Percentage Failed
 
-Percentage Canceled
+	x Percentage Canceled
 
 	x	In the Goal column, create 12 rows with the following headers:
 
@@ -128,6 +128,6 @@ Statistical Analysis
 
 		x The standard deviation of the number of backers
 
-	Use your data to determine whether the mean or the median better summarizes the data.
+		x Use your data to determine whether the mean or the median better summarizes the data.
 
-	Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
+		x Use your data to determine if there is more variability with successful or unsuccessful 			campaigns. Does this make sense? Why or why not?
